@@ -1,12 +1,31 @@
-import Msite from '../components/Msite'
-import Category from '../components/Category'
-import WorthBuy from '../components/WorthBuy'
-import Cart from '../components/Cart'
-import Personal from '../components/Personal'
+import Msite from '../containers/Msite'
+import MsiteTab from '../containers/Msite/MsiteTab'
+import Category from '../containers/Category'
+import WorthBuy from '../containers/WorthBuy'
+import Cart from '../containers/Cart'
+import Login from '../containers/Login'
+import Search from '../containers/Search'
+import SearchShopList from '../containers/Search/SearchShopList'
+import Personal from '../containers/Personal'
 const routes = [
   {
     path: '/msite',
     component: Msite,
+    exact: true
+  },
+  {
+    path: '/tab',
+    component: MsiteTab,
+    exact: true
+  },
+  {
+    path: '/search',
+    component: Search,
+    exact: true
+  },
+  {
+    path: '/search_list',
+    component: SearchShopList,
     exact: true
   },
   {
@@ -22,6 +41,11 @@ const routes = [
   {
     path: '/cart',
     component: Cart,
+    exact: true
+  },
+  {
+    path: '/login',
+    component: Login,
     exact: true
   },
   {

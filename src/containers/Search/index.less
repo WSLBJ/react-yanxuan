@@ -1,0 +1,72 @@
+.m-searchSuggestions {
+	line-height: 1.5;
+	color: #333;
+	font-size: 18px;
+	padding: 0 0.4rem 0.4rem;
+	background-color: #fff;
+	overflow: hidden;
+	margin-bottom: 0.26667rem;
+
+	.hd {
+		position: relative;
+
+		.tit {
+			font-size: 16px;
+			margin-top: 10px;
+		}
+
+		.del {
+			display: block;
+			position: absolute;
+			right: 0;
+			top: 0;
+			width: 30px;
+			height: 24px;
+			line-height: 24px;
+			background: url('./images/del.webp') center center/cover no-repeat;
+		}
+	}
+
+	.list {
+		line-height: 1.5;
+		color: #333;
+		font-size: 24px;
+		display: block;
+		margin-right: -0.4rem;
+		margin-top: 10px;
+		margin-bottom: -0.42667rem;
+
+		.item {
+			font-size: 14px;
+			outline: 0;
+			float: left;
+			padding: 0 0.2rem;
+			margin-right: 0.42667rem;
+			margin-bottom: 0.42667rem;
+			line-height: 0.61333rem;
+			border: 1px solid #999;
+			border-radius: 4px;
+
+			&.highlight {
+				border-color: #DD1A21;
+				color: #DD1A21;
+			}
+		}
+	}
+}
+
+.searchList {
+	position: absolute;
+	top: 44px;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	padding-left: 9px;
+	background-color: #fff;
+
+	.searchItem {
+		height: 45px;
+		line-height: 45px;
+		border-bottom: 1px solid #eee;
+	}
+}

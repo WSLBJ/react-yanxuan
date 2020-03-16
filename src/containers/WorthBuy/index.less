@@ -1,0 +1,155 @@
+.topic_container {
+	width: 100%;
+	margin-bottom: 50px;
+	position: relative;
+
+	.swiper-header {
+		position: absolute !important;
+		padding-top: 30px;
+		box-sizing: border-box;
+		width: 100%;
+		height: 270px;
+		background: url('https://m.you.163.com/topic/index/img/topic_title_bg.2373a140.png');
+		background-size: 100% 100%;
+
+		.firstImg {
+			width: 65px;
+			height: 34px;
+			vertical-align: middle;
+		}
+
+		span {
+			font-size: 16px;
+			color: #fff;
+			margin-left: 10px;
+		}
+	}
+
+	.slider am-carousel {
+
+		height: 235px;
+	}
+
+
+	.v-item {
+		width: 95% !important;
+		margin: 70px auto 0;
+		display: flex !important;
+		justify-content: center;
+		flex-wrap: wrap;
+		background-color: #fff;
+		border-radius: 10px;
+	}
+
+	.swiper_container {
+		display: flex;
+		width: 81px;
+		height: 100px;
+		margin: 15px auto;
+
+		&:nth-child(4n) {
+			margin-right: 10px;
+		}
+
+		.swiper_item {
+			display: flex;
+			flex-direction: column;
+			height: 100px;
+			align-items: center;
+
+			img {
+				width: 60px !important;
+				height: 60px;
+			}
+
+			span {
+				font-size: 14px;
+				font-weight: bold;
+				color: #333;
+
+				&:nth-child(2) {
+					text-align: center;
+				}
+
+				&:last-child {
+					display: inline-block;
+					white-space: nowrap;
+					transform: scale(.8);
+					font-size: 12px;
+					color: #999;
+				}
+			}
+		}
+
+	}
+
+	.main-content {
+		width: 100%;
+		margin-top: 20px;
+
+		.main-list {
+			width: 100%;
+			columns: 2;
+			columns: 172px;
+
+			.main-item {
+				width: 172px;
+				margin: 0 auto 20px;
+				display: flex;
+				flex-direction: column;
+				background-color: #fff;
+
+				img {
+					width: 100%;
+					border-radius: 10px;
+				}
+
+				p {
+					font-size: 13px;
+					margin-left: 10px;
+				}
+
+				.item-footer {
+					display: flex;
+					align-items: center;
+					justify-content: space-between;
+					margin-top: 20px;
+
+					.item_footer_left {
+						.avatal {
+							width: 24px;
+							height: 24px;
+							border-radius: 50%;
+							vertical-align: middle;
+						}
+
+						.nickname {
+							margin-left: 10px;
+							font-size: 12px;
+							color: #7F7F7F;
+						}
+					}
+
+					.item_footer_right {
+						.readCountImg {
+							width: 16px;
+							height: 16px;
+							vertical-align: middle;
+						}
+
+						.readCount {
+							font-size: 12px;
+							color: #7F7F7F;
+							white-space: nowrap;
+							margin: 0 10px 0 0;
+						}
+
+					}
+
+
+				}
+			}
+		}
+	}
+
+}

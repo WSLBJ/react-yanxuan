@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import { Route, Switch, Redirect } from 'react-router-dom'
 
-import FooterGuide from './components/FooterGuide'
-import MsiteHeader from './components/MsiteHeader'
+import FooterGuide from './containers/FooterGuide'
+import MsiteHeader from './containers/Msite/MsiteHeader'
 import routes from './config/routes'
 export default class App extends Component {
   render() {
