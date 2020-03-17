@@ -1,0 +1,1087 @@
+{
+    "data": {
+        "defaultKeyword": {
+            "keyword": "好货内部价",
+            "schemeUrl": "https://you.163.com/flashSale/index?keyword=%E5%A5%BD%E8%B4%A7%E5%86%85%E9%83%A8%E4%BB%B7#toFloor161",
+            "highlight": 0,
+            "hidden": 0,
+            "type": 0,
+            "algSort": false,
+            "extra": {
+                "materialContentFrom": 1,
+                "materialName": "好货内部价",
+                "rcmdSort": false,
+                "taskType": 1,
+                "itemFrom": 0,
+                "crmUserGroupName": "无分组",
+                "resourcesId": 17,
+                "materialType": "默认词id",
+                "crmUserGroupId": "0",
+                "materialId": "54640630",
+                "taskId": "54648115"
+            }
+        },
+        "defaultKeywords": [
+            {
+                "keyword": "4.11周年庆省钱卡",
+                "schemeUrl": "https://you.163.com/item/detail?id=3989626&keyword=4.11%E5%91%A8%E5%B9%B4%E5%BA%86%E7%9C%81%E9%92%B1%E5%8D%A1",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "4.11周年庆省钱卡",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 1,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54641137",
+                    "taskId": "54648963"
+                }
+            },
+            {
+                "keyword": "复工通勤路，防护怎么做？",
+                "schemeUrl": "https://m.you.163.com/topic/v1/pub/rdy4atmha6Wj.html?keyword=%E5%A4%8D%E5%B7%A5%E9%80%9A%E5%8B%A4%E8%B7%AF%EF%BC%8C%E9%98%B2%E6%8A%A4%E6%80%8E%E4%B9%88%E5%81%9A%EF%BC%9F",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "复工通勤路，防护怎么做？",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 2,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54641098",
+                    "taskId": "54648955"
+                }
+            },
+            {
+                "keyword": "化痰祛湿 红豆薏米",
+                "schemeUrl": "https://you.163.com/item/detail?id=1314016&keyword=%E5%8C%96%E7%97%B0%E7%A5%9B%E6%B9%BF%20%E7%BA%A2%E8%B1%86%E8%96%8F%E7%B1%B3",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "化痰祛湿 红豆薏米",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 3,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640864",
+                    "taskId": "54648465"
+                }
+            },
+            {
+                "keyword": "严选省钱卡",
+                "schemeUrl": "https://you.163.com/item/detail?id=3989626&keyword=%E4%B8%A5%E9%80%89%E7%9C%81%E9%92%B1%E5%8D%A1",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "严选省钱卡",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 4,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54641192",
+                    "taskId": "54648965"
+                }
+            },
+            {
+                "keyword": "省钱",
+                "schemeUrl": "https://you.163.com/item/detail?id=3989626&keyword=%E7%9C%81%E9%92%B1",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "省钱",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 5,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54641193",
+                    "taskId": "54648966"
+                }
+            },
+            {
+                "keyword": "9.9元超值专区",
+                "schemeUrl": "https://you.163.com/topic/v1/pub/Pew1KBH9Au.html?keyword=9.9%E5%85%83%E8%B6%85%E5%80%BC%E4%B8%93%E5%8C%BA",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "9.9元超值专区",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 7,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54631004",
+                    "taskId": "54648962"
+                }
+            },
+            {
+                "keyword": "网课神器 打印机",
+                "schemeUrl": "https://you.163.com/item/detail?id=3989295&keyword=%E7%BD%91%E8%AF%BE%E7%A5%9E%E5%99%A8%20%E6%89%93%E5%8D%B0%E6%9C%BA",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "网课神器 打印机",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 8,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54641172",
+                    "taskId": "54648896"
+                }
+            },
+            {
+                "keyword": "春天",
+                "schemeUrl": "https://act.you.163.com/act/pub/WRcqaNKIeJGS.html?keyword=%E6%98%A5%E5%A4%A9",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "春天",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 9,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640973",
+                    "taskId": "54648597"
+                }
+            },
+            {
+                "keyword": "直播",
+                "schemeUrl": "https://act.you.163.com/act/static/h2evfE8eQOvK.html?from=plan0C8B42AA014CAACBplan&channel_type=7&keyword=%E7%9B%B4%E6%92%AD",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "直播",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 10,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640875",
+                    "taskId": "54648471"
+                }
+            },
+            {
+                "keyword": "会员试用",
+                "schemeUrl": "https://m.you.163.com/supermc/index?autojump=free&keyword=%E4%BC%9A%E5%91%98%E8%AF%95%E7%94%A8",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "会员试用",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 11,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54630764",
+                    "taskId": "54633848"
+                }
+            },
+            {
+                "keyword": "试用",
+                "schemeUrl": "https://m.you.163.com/supermc/index?autojump=free&keyword=%E8%AF%95%E7%94%A8",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "试用",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 12,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "53226077",
+                    "taskId": "53226078"
+                }
+            },
+            {
+                "keyword": "闪购",
+                "schemeUrl": "https://m.you.163.com/supermc/index?autojump=flashsaleInSupermc&keyword=%E9%97%AA%E8%B4%AD",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "闪购",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 13,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "53225952",
+                    "taskId": "53225953"
+                }
+            },
+            {
+                "keyword": "超级闪购",
+                "schemeUrl": "https://m.you.163.com/supermc/index?autojump=flashsaleInSupermc&keyword=%E8%B6%85%E7%BA%A7%E9%97%AA%E8%B4%AD",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "超级闪购",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 14,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "53220841",
+                    "taskId": "53220846"
+                }
+            },
+            {
+                "keyword": "超级会员",
+                "schemeUrl": "https://m.you.163.com/supermc/index?keyword=%E8%B6%85%E7%BA%A7%E4%BC%9A%E5%91%98",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "超级会员",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 15,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "53220826",
+                    "taskId": "53220827"
+                }
+            },
+            {
+                "keyword": "超级会员价",
+                "schemeUrl": "https://m.you.163.com/supermc/exclusive?keyword=%E8%B6%85%E7%BA%A7%E4%BC%9A%E5%91%98%E4%BB%B7",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "超级会员价",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 16,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "53220816",
+                    "taskId": "53220808"
+                }
+            },
+            {
+                "keyword": "好货内部价",
+                "schemeUrl": "https://you.163.com/flashSale/index?keyword=%E5%A5%BD%E8%B4%A7%E5%86%85%E9%83%A8%E4%BB%B7#toFloor161",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "好货内部价",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 17,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640630",
+                    "taskId": "54648115"
+                }
+            },
+            {
+                "keyword": "量贩囤货",
+                "schemeUrl": "https://m.you.163.com/saleCenter/index?floor=2&keyword=%E9%87%8F%E8%B4%A9%E5%9B%A4%E8%B4%A7",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "量贩囤货",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 18,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "50948259",
+                    "taskId": "54644789"
+                }
+            },
+            {
+                "keyword": "特价",
+                "schemeUrl": "https://m.you.163.com/saleCenter/index?floor=1&keyword=%E7%89%B9%E4%BB%B7",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "特价",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 20,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "50948252",
+                    "taskId": "54644792"
+                }
+            },
+            {
+                "keyword": "免费试用",
+                "schemeUrl": "https://m.you.163.com/supermc/index?autojump=free&keyword=%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8",
+                "highlight": 0,
+                "hidden": 1,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "免费试用",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 22,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "50697076",
+                    "taskId": "52116179"
+                }
+            },
+            {
+                "keyword": "拼团",
+                "schemeUrl": "https://m.you.163.com/pin/item/list?keyword=%E6%8B%BC%E5%9B%A2",
+                "highlight": 0,
+                "hidden": 1,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "拼团",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 23,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "50697024",
+                    "taskId": "54644788"
+                }
+            },
+            {
+                "keyword": "积分",
+                "schemeUrl": "https://you.163.com/points/index?keyword=%E7%A7%AF%E5%88%86",
+                "highlight": 0,
+                "hidden": 1,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "积分",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 24,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "50697002",
+                    "taskId": "52116190"
+                }
+            },
+            {
+                "keyword": "限时购",
+                "schemeUrl": "https://m.you.163.com/flashSale/index?keyword=%E9%99%90%E6%97%B6%E8%B4%AD",
+                "highlight": 0,
+                "hidden": 1,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "限时购",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 27,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "50528168",
+                    "taskId": "52116195"
+                }
+            },
+            {
+                "keyword": "优惠券",
+                "schemeUrl": "https://m.you.163.com/saleCenter/couponList?id=10&keyword=%E4%BC%98%E6%83%A0%E5%88%B8",
+                "highlight": 0,
+                "hidden": 1,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "优惠券",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 29,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "50528165",
+                    "taskId": "52116202"
+                }
+            },
+            {
+                "keyword": "福利社",
+                "schemeUrl": "https://you.163.com/saleCenter/index?keyword=%E7%A6%8F%E5%88%A9%E7%A4%BE",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "福利社",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 30,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "52269479",
+                    "taskId": "53089092"
+                }
+            },
+            {
+                "keyword": "杭州",
+                "schemeUrl": "https://act.you.163.com/act/pub/Lbhxe4WsshSD.html?keyword=%E6%9D%AD%E5%B7%9E",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "杭州",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 31,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640751",
+                    "taskId": "54648595"
+                }
+            },
+            {
+                "keyword": "滨江",
+                "schemeUrl": "https://act.you.163.com/act/pub/Lbhxe4WsshSD.html?keyword=%E6%BB%A8%E6%B1%9F",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "滨江",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 32,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640752",
+                    "taskId": "54648594"
+                }
+            },
+            {
+                "keyword": "杭州口罩",
+                "schemeUrl": "https://act.you.163.com/act/pub/Lbhxe4WsshSD.html?keyword=%E6%9D%AD%E5%B7%9E%E5%8F%A3%E7%BD%A9",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "杭州口罩",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 33,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640753",
+                    "taskId": "54648593"
+                }
+            },
+            {
+                "keyword": "滨江口罩",
+                "schemeUrl": "https://act.you.163.com/act/pub/Lbhxe4WsshSD.html?keyword=%E6%BB%A8%E6%B1%9F%E5%8F%A3%E7%BD%A9",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "滨江口罩",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 34,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640754",
+                    "taskId": "54648592"
+                }
+            },
+            {
+                "keyword": "众筹",
+                "schemeUrl": "https://you.163.com/zc/project/list?keyword=%E4%BC%97%E7%AD%B9",
+                "highlight": 0,
+                "hidden": 1,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "众筹",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 35,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54637328",
+                    "taskId": "54643661"
+                }
+            },
+            {
+                "keyword": "网易众筹",
+                "schemeUrl": "https://you.163.com/zc/project/list?keyword=%E7%BD%91%E6%98%93%E4%BC%97%E7%AD%B9",
+                "highlight": 0,
+                "hidden": 1,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "网易众筹",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 36,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54637329",
+                    "taskId": "54643662"
+                }
+            },
+            {
+                "keyword": "杭州口罩预约",
+                "schemeUrl": "https://act.you.163.com/act/pub/Lbhxe4WsshSD.html?keyword=%E6%9D%AD%E5%B7%9E%E5%8F%A3%E7%BD%A9%E9%A2%84%E7%BA%A6",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "杭州口罩预约",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 37,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640755",
+                    "taskId": "54648591"
+                }
+            },
+            {
+                "keyword": "滨江口罩预约",
+                "schemeUrl": "https://act.you.163.com/act/pub/Lbhxe4WsshSD.html?keyword=%E6%BB%A8%E6%B1%9F%E5%8F%A3%E7%BD%A9%E9%A2%84%E7%BA%A6",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "滨江口罩预约",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 38,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640756",
+                    "taskId": "54648590"
+                }
+            },
+            {
+                "keyword": "签到",
+                "schemeUrl": "https://you.163.com/points/index?keyword=%E7%AD%BE%E5%88%B0",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "签到",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 39,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54637989",
+                    "taskId": "54644793"
+                }
+            },
+            {
+                "keyword": "西湖口罩",
+                "schemeUrl": "https://act.you.163.com/act/pub/Lbhxe4WsshSD.html?keyword=%E8%A5%BF%E6%B9%96%E5%8F%A3%E7%BD%A9",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "西湖口罩",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 40,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640961",
+                    "taskId": "54648589"
+                }
+            },
+            {
+                "keyword": "西湖口罩预约",
+                "schemeUrl": "https://act.you.163.com/act/pub/Lbhxe4WsshSD.html?keyword=%E8%A5%BF%E6%B9%96%E5%8F%A3%E7%BD%A9%E9%A2%84%E7%BA%A6",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "西湖口罩预约",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 41,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640962",
+                    "taskId": "54648588"
+                }
+            },
+            {
+                "keyword": "西湖区口罩预约",
+                "schemeUrl": "https://act.you.163.com/act/pub/Lbhxe4WsshSD.html?keyword=%E8%A5%BF%E6%B9%96%E5%8C%BA%E5%8F%A3%E7%BD%A9%E9%A2%84%E7%BA%A6",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "西湖区口罩预约",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 42,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640963",
+                    "taskId": "54648587"
+                }
+            },
+            {
+                "keyword": "预约",
+                "schemeUrl": "https://act.you.163.com/pub/L62FoIBG4A.html?keyword=%E9%A2%84%E7%BA%A6",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "预约",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 43,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640971",
+                    "taskId": "54648586"
+                }
+            },
+            {
+                "keyword": "预约口罩",
+                "schemeUrl": "https://act.you.163.com/pub/L62FoIBG4A.html?keyword=%E9%A2%84%E7%BA%A6%E5%8F%A3%E7%BD%A9",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "预约口罩",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "",
+                    "resourcesId": 44,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640212",
+                    "taskId": "54648585"
+                }
+            },
+            {
+                "keyword": "口罩预约",
+                "schemeUrl": "https://act.you.163.com/pub/L62FoIBG4A.html?keyword=%E5%8F%A3%E7%BD%A9%E9%A2%84%E7%BA%A6",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "口罩预约",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 45,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54640080",
+                    "taskId": "54648584"
+                }
+            },
+            {
+                "keyword": "防疫",
+                "schemeUrl": "https://act.you.163.com/act/pub/hWVXcVQscSlG.html?keyword=%E9%98%B2%E7%96%AB",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "防疫",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 46,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54641167",
+                    "taskId": "54648892"
+                }
+            },
+            {
+                "keyword": "周年庆省钱卡",
+                "schemeUrl": "https://you.163.com/item/detail?id=3989626&keyword=%E5%91%A8%E5%B9%B4%E5%BA%86%E7%9C%81%E9%92%B1%E5%8D%A1",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "周年庆省钱卡",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 47,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54641136",
+                    "taskId": "54648952"
+                }
+            },
+            {
+                "keyword": "省钱卡",
+                "schemeUrl": "https://you.163.com/item/detail?id=3989626&keyword=%E7%9C%81%E9%92%B1%E5%8D%A1",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "省钱卡",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 48,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54641135",
+                    "taskId": "54648953"
+                }
+            },
+            {
+                "keyword": "红包卡",
+                "schemeUrl": "https://you.163.com/item/detail?id=3989626&keyword=%E7%BA%A2%E5%8C%85%E5%8D%A1",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "红包卡",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 49,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54641138",
+                    "taskId": "54648954"
+                }
+            },
+            {
+                "keyword": "礼品卡",
+                "schemeUrl": "https://you.163.com/item/detail?id=3989626&keyword=%E7%A4%BC%E5%93%81%E5%8D%A1",
+                "highlight": 0,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "礼品卡",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 50,
+                    "materialType": "默认词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54641191",
+                    "taskId": "54648964"
+                }
+            }
+        ],
+        "hotKeywordVOList": [
+            {
+                "keyword": "省钱卡白送36元",
+                "schemeUrl": "https://you.163.com/item/detail?id=3989626&keyword=%E7%9C%81%E9%92%B1%E5%8D%A1%E7%99%BD%E9%80%8136%E5%85%83",
+                "highlight": 1,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "省钱卡白送36元",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 1,
+                    "materialType": "热搜词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54641194",
+                    "taskId": "54648967"
+                }
+            },
+            {
+                "keyword": "停课不停学",
+                "schemeUrl": "https://you.163.com/topic/v1/pub/npu9rkglv0KC.html?keyword=%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6",
+                "highlight": 1,
+                "hidden": 0,
+                "type": 0,
+                "algSort": false,
+                "extra": {
+                    "materialContentFrom": 1,
+                    "materialName": "停课不停学",
+                    "rcmdSort": false,
+                    "taskType": 1,
+                    "itemFrom": 0,
+                    "crmUserGroupName": "无分组",
+                    "resourcesId": 2,
+                    "materialType": "热搜词id",
+                    "crmUserGroupId": "0",
+                    "materialId": "54641170",
+                    "taskId": "54648894"
+                }
+            },
+            {
+                "keyword": "拖把",
+                "schemeUrl": null,
+                "highlight": 0,
+                "hidden": 0,
+                "type": 1,
+                "algSort": false,
+                "extra": null
+            },
+            {
+                "keyword": "酒精湿巾",
+                "schemeUrl": null,
+                "highlight": 0,
+                "hidden": 0,
+                "type": 1,
+                "algSort": false,
+                "extra": null
+            },
+            {
+                "keyword": "猫粮",
+                "schemeUrl": null,
+                "highlight": 0,
+                "hidden": 0,
+                "type": 1,
+                "algSort": false,
+                "extra": null
+            },
+            {
+                "keyword": "无骨鸡爪",
+                "schemeUrl": null,
+                "highlight": 0,
+                "hidden": 0,
+                "type": 1,
+                "algSort": false,
+                "extra": null
+            },
+            {
+                "keyword": "四件套",
+                "schemeUrl": null,
+                "highlight": 0,
+                "hidden": 0,
+                "type": 1,
+                "algSort": false,
+                "extra": null
+            },
+            {
+                "keyword": "纸巾",
+                "schemeUrl": null,
+                "highlight": 0,
+                "hidden": 0,
+                "type": 1,
+                "algSort": false,
+                "extra": null
+            },
+            {
+                "keyword": "尿不湿",
+                "schemeUrl": null,
+                "highlight": 0,
+                "hidden": 0,
+                "type": 1,
+                "algSort": false,
+                "extra": null
+            },
+            {
+                "keyword": "抽纸",
+                "schemeUrl": null,
+                "highlight": 0,
+                "hidden": 0,
+                "type": 1,
+                "algSort": false,
+                "extra": null
+            },
+            {
+                "keyword": "洗衣液",
+                "schemeUrl": null,
+                "highlight": 0,
+                "hidden": 0,
+                "type": 1,
+                "algSort": false,
+                "extra": null
+            },
+            {
+                "keyword": "枕头",
+                "schemeUrl": null,
+                "highlight": 0,
+                "hidden": 0,
+                "type": 1,
+                "algSort": false,
+                "extra": null
+            }
+        ],
+        "colorfulEggList": []
+    },
+    "code": "200"
+}
